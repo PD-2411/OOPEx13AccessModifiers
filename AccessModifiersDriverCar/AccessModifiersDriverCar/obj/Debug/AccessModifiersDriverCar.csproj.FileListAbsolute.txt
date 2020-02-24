@@ -1,0 +1,9 @@
+D:\NBCC (2019-2020) - Winter Term\OOP - Object Orienterd Programming\AccessModifiersDriverCar\AccessModifiersDriverCar\bin\Debug\AccessModifiersDriverCar.exe.config
+D:\NBCC (2019-2020) - Winter Term\OOP - Object Orienterd Programming\AccessModifiersDriverCar\AccessModifiersDriverCar\bin\Debug\AccessModifiersDriverCar.exe
+D:\NBCC (2019-2020) - Winter Term\OOP - Object Orienterd Programming\AccessModifiersDriverCar\AccessModifiersDriverCar\bin\Debug\AccessModifiersDriverCar.pdb
+D:\NBCC (2019-2020) - Winter Term\OOP - Object Orienterd Programming\AccessModifiersDriverCar\AccessModifiersDriverCar\bin\Debug\VehicleOperation.dll
+D:\NBCC (2019-2020) - Winter Term\OOP - Object Orienterd Programming\AccessModifiersDriverCar\AccessModifiersDriverCar\bin\Debug\VehicleOperation.pdb
+D:\NBCC (2019-2020) - Winter Term\OOP - Object Orienterd Programming\AccessModifiersDriverCar\AccessModifiersDriverCar\obj\Debug\AccessModifiersDriverCar.csprojAssemblyReference.cache
+D:\NBCC (2019-2020) - Winter Term\OOP - Object Orienterd Programming\AccessModifiersDriverCar\AccessModifiersDriverCar\obj\Debug\AccessModifiersDriverCar.csproj.CopyComplete
+D:\NBCC (2019-2020) - Winter Term\OOP - Object Orienterd Programming\AccessModifiersDriverCar\AccessModifiersDriverCar\obj\Debug\AccessModifiersDriverCar.exe
+D:\NBCC (2019-2020) - Winter Term\OOP - Object Orienterd Programming\AccessModifiersDriverCar\AccessModifiersDriverCar\obj\Debug\AccessModifiersDriverCar.pdb

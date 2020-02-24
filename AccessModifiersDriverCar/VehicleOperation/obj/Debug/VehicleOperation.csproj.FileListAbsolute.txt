@@ -1,0 +1,5 @@
+D:\NBCC (2019-2020) - Winter Term\OOP - Object Orienterd Programming\AccessModifiersDriverCar\VehicleOperation\bin\Debug\VehicleOperation.dll
+D:\NBCC (2019-2020) - Winter Term\OOP - Object Orienterd Programming\AccessModifiersDriverCar\VehicleOperation\bin\Debug\VehicleOperation.pdb
+D:\NBCC (2019-2020) - Winter Term\OOP - Object Orienterd Programming\AccessModifiersDriverCar\VehicleOperation\obj\Debug\VehicleOperation.csprojAssemblyReference.cache
+D:\NBCC (2019-2020) - Winter Term\OOP - Object Orienterd Programming\AccessModifiersDriverCar\VehicleOperation\obj\Debug\VehicleOperation.dll
+D:\NBCC (2019-2020) - Winter Term\OOP - Object Orienterd Programming\AccessModifiersDriverCar\VehicleOperation\obj\Debug\VehicleOperation.pdb
